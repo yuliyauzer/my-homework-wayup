@@ -1,0 +1,50 @@
+body {
+    font-family:  'Arial Narrow', Arial 
+    font-size: 10px;
+}
+
+
+
+h1 {
+    color: red;
+}
+.text {
+    color: white;
+    background: blue;
+    width: 100px;
+    height: 80px;
+
+}
+
+p span {
+    color: red;
+
+}
+ h2 {
+     font-size: 20px;
+     color: white;
+     background: green;
+     border: 2px solid ;
+ }
+
+  .title {
+     height: 100px;
+     box-sizing: border-box;
+     padding: 40px;
+
+ }
+
+ .new {
+     height: opx;
+     padding-left: 100px;
+     
+
+ }
+
+  .list li {
+      color: black;
+      font-size:  25px; ;
+      border: 2px solid black;
+      
+
+  }
